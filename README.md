@@ -27,6 +27,7 @@
 ### 👨‍💻 Programming Languages
 - C++
 - C#
+  dart
 - Python
 - SQL
 
